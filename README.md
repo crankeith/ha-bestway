@@ -59,15 +59,3 @@ Achieve faster (or even local) updates.
 ## Contributing
 
 If you want to contribute to this please read the [Contribution Guidelines](CONTRIBUTING.md).
-
-[commits-shield]: https://img.shields.io/github/commit-activity/y/cdpuk/ha-bestway.svg?style=for-the-badge
-[commits]: https://github.com/cdpuk/ha-bestway/commits/main
-[hacs]: https://github.com/custom-components/hacs
-[hacsbadge]: https://img.shields.io/badge/HACS-Custom-orange.svg?style=for-the-badge
-[license-shield]: https://img.shields.io/github/license/cdpuk/ha-bestway.svg?style=for-the-badge
-[releases-shield]: https://img.shields.io/github/release/cdpuk/ha-bestway.svg?style=for-the-badge
-[releases]: https://github.com/cdpuk/ha-bestway/releases
-[hacs-download]: https://hacs.xyz/docs/setup/download
-[hacs-custom]: https://hacs.xyz/docs/faq/custom_repositories
-[bestway-android]: https://play.google.com/store/apps/details?id=com.layzspa.smartHome
-[bestway-ios]: https://apps.apple.com/us/app/bestway-smart-hub/id1456731336
